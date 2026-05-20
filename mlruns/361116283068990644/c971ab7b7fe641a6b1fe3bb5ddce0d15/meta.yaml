@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/c971ab7b7fe641a6b1fe3bb5ddce0d15/artifacts
+end_time: 1779293244211
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: c971ab7b7fe641a6b1fe3bb5ddce0d15
+run_name: LightGBMClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293164521
+status: 3
+tags: []
+user_id: voltsy

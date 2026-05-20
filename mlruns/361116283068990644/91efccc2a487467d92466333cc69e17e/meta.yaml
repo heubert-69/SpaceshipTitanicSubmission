@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/91efccc2a487467d92466333cc69e17e/artifacts
+end_time: 1779293164517
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: 91efccc2a487467d92466333cc69e17e
+run_name: XGBoostRandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293139616
+status: 3
+tags: []
+user_id: voltsy

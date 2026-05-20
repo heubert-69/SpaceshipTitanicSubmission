@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/cd8b8fe0146049a08ae9321895d26ee1/artifacts
+end_time: 1779294000093
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: cd8b8fe0146049a08ae9321895d26ee1
+run_name: CatBoostClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293980896
+status: 3
+tags: []
+user_id: voltsy

@@ -1,0 +1,22 @@
+artifact_path: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-1b25083558a448b6ad5df4f5f42e56da/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.6.0
+model_id: m-1b25083558a448b6ad5df4f5f42e56da
+model_size_bytes: 693749
+model_uuid: m-1b25083558a448b6ad5df4f5f42e56da
+prompts: null
+run_id: 98219f9ed23e41e6bf9c14195ac40776
+utc_time_created: '2026-05-20 16:18:54.272244'

@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-26ff295bad0b458b857edd15b903ca10/artifacts
+creation_timestamp: 1779293238190
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293244201
+model_id: m-26ff295bad0b458b857edd15b903ca10
+model_type: null
+name: LightGBMClassifier
+source_run_id: c971ab7b7fe641a6b1fe3bb5ddce0d15
+status: 2
+status_message: null

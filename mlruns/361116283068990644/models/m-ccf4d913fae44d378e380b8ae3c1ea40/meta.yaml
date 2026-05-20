@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-ccf4d913fae44d378e380b8ae3c1ea40/artifacts
+creation_timestamp: 1779293960116
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293964710
+model_id: m-ccf4d913fae44d378e380b8ae3c1ea40
+model_type: null
+name: XGBoostRandomForest
+source_run_id: 4b3e72dddf18478eb9b7fe5921bf7728
+status: 2
+status_message: null

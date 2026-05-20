@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-d87561dbc7f2430c9c51020a23213b64/artifacts
+creation_timestamp: 1779293081111
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293097157
+model_id: m-d87561dbc7f2430c9c51020a23213b64
+model_type: null
+name: LogisticRegression
+source_run_id: 414a1ef419cd4788bcdf6e16e11daed9
+status: 2
+status_message: null

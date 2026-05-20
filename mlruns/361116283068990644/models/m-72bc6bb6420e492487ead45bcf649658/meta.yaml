@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-72bc6bb6420e492487ead45bcf649658/artifacts
+creation_timestamp: 1779293133142
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293139180
+model_id: m-72bc6bb6420e492487ead45bcf649658
+model_type: null
+name: RandomForestClassifier
+source_run_id: 389dd356bcfc42a08a122a8dc7551b4d
+status: 2
+status_message: null

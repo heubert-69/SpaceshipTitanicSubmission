@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-1b25083558a448b6ad5df4f5f42e56da/artifacts
+creation_timestamp: 1779293934246
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293938669
+model_id: m-1b25083558a448b6ad5df4f5f42e56da
+model_type: null
+name: GradientBoostingClassifier
+source_run_id: 98219f9ed23e41e6bf9c14195ac40776
+status: 2
+status_message: null

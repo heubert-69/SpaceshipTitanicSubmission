@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/bb6a208560bd41ed8d2d63a789017f93/artifacts
+end_time: 1779293918488
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: bb6a208560bd41ed8d2d63a789017f93
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293906832
+status: 3
+tags: []
+user_id: voltsy

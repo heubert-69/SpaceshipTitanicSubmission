@@ -1,0 +1,10 @@
+artifact_location: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/models/m-f177afd373f24e01b4de19909a42baa9/artifacts
+creation_timestamp: 1779293256209
+experiment_id: '361116283068990644'
+last_updated_timestamp: 1779293262261
+model_id: m-f177afd373f24e01b4de19909a42baa9
+model_type: null
+name: CatBoostClassifier
+source_run_id: 3ee0986f16b14c45bbe8d2004c5bedb6
+status: 2
+status_message: null

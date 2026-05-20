@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/1ac4fb3ae1b54496a2034c567dfab04b/artifacts
+end_time: 1779293955914
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: 1ac4fb3ae1b54496a2034c567dfab04b
+run_name: RandomForestClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293938680
+status: 3
+tags: []
+user_id: voltsy

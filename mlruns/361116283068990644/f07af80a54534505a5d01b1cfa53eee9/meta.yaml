@@ -1,0 +1,14 @@
+artifact_uri: file:///home/voltsy/Projects/SpaceshipTitanic/mlruns/361116283068990644/f07af80a54534505a5d01b1cfa53eee9/artifacts
+end_time: 1779293124551
+entry_point_name: ''
+experiment_id: '361116283068990644'
+lifecycle_stage: active
+run_id: f07af80a54534505a5d01b1cfa53eee9
+run_name: GradientBoostingClassifier
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779293097171
+status: 3
+tags: []
+user_id: voltsy
